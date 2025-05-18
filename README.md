@@ -1,7 +1,6 @@
 # Installation Process
 
-Clone the repository using: git clone https://github.com/Avamegyeri/Robotic_demo.git
-
+Clone the repository using: git clone https://github.com/Terascale-All-sensing-Research-Studio/robotsensorint-Demo.git
 -Required Python version: 3.8.10
 
 # Virtual Environment
