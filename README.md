@@ -1,6 +1,6 @@
 # Installation Process
 
-Clone the repository using: git clone https://github.com/Terascale-All-sensing-Research-Studio/robotsensorint-Demo.git
+Clone the repository using: git clone https://github.com/Terascale-All-sensing-Research-Studio/robotsensorint-demo.git
 
 -Required Python version: 3.8.10
 
